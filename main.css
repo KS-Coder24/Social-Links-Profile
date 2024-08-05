@@ -120,7 +120,7 @@ html {
 
   ul li:hover a {
     color: var(--gray-800);
-    cursor: url(/assets/images/up-sign.png), pointer;
+    cursor: url(up-sign.png), pointer;
   }
   
   /* Styling attribution */
