@@ -133,3 +133,7 @@ html {
  .attribution a { 
     color: hsl(228, 45%, 44%); 
  }
+
+ @media only screen and (max-width: 1440px) {
+  /* Styles for viewports up to 1440px wide */
+}
